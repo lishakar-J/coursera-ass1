@@ -1,0 +1,38 @@
+h1{
+            text-align: center;
+        }
+        div{
+            margin: 20px;
+            float:left;  
+        width: 300px;
+        }
+    #a{
+    background-color: aquamarine;
+    border: 1px solid;       
+    
+       
+    }
+        #c{
+    background-color: aquamarine;
+    border: 1px solid;
+    
+  
+ 
+    }
+        #b{
+    background-color: aquamarine;
+    border: 1px solid;
+    
+            
+    }
+        #i
+        {
+            float: right;
+            margin: 0;
+            border: 1px solid black;
+            background-color: chocolate;
+            
+        }
+        p{
+            clear:right;
+        }
